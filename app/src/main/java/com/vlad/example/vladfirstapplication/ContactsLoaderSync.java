@@ -30,7 +30,7 @@ public class ContactsLoaderSync {
 
     protected Void aduBahDatele(String filters) {
         boolean weHaveMoreStringsToSearch = false;
-        String[] searchStrings = new String[0];
+        String[] searchStrings = new String[1];
 
         if (filters.contains(" ")) {
             weHaveMoreStringsToSearch = true;
