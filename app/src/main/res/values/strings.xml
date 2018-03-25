@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Vlad First Application</string>
+    <string name="text_contact_name">Enter contact name</string>
+    <string name="text_contact_number">Enter contact number</string>
+    <string name="button_add">add</string>
+</resources>
